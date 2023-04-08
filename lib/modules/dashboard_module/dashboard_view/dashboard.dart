@@ -78,6 +78,7 @@ class DashboardView extends StatelessWidget {
             child: SizedBox(
               width: size.width,
               child: Row(children: [
+                
                 Container(
                   child: CustomText(text: "Add Money", color: Colors.white,),
                 )
